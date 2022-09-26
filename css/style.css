@@ -251,6 +251,9 @@ color: #1877F2;
  .siteText {
     height: auto;
  }
+ .BigButton {
+    margin-top: 15px;
+ }
 }
 
 @media all and (max-width:539px){
